@@ -1,0 +1,22 @@
+button.btn-more {
+    /* position: absolute; */
+    box-shadow: 5px 4px 0px var(--black-shadow);
+    padding: 3px 10px;
+    background: white;
+
+}
+button.btn-shadow {
+    /* position: absolute; */
+    box-shadow: 5px 4px 0px var(--black-shadow);
+    padding: 3px 10px;
+    background: white;
+    cursor: pointer;
+
+}
+
+/* ///////////////////////////// */
+.btn-card {
+    position: absolute;
+    left: 80%;
+    top: 90%;
+}

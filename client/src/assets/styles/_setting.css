@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    outline: none;
+    /* object-fit: contain; */
+    /* line-height: 1.5em; */
+}
+
+:root {
+    --orange: orange;
+    --black-bg: #1d1c1c;
+    --black-shadow: #404040;
+    --white: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+input {
+    width: 100%;
+}
+
+.bg-white{
+    color:white;
+}
