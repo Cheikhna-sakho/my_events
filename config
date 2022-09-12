@@ -1,6 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-[remote "origin"]
-	url = git@github.com:EpitechWebAcademiePromo2023/W-SPE-502-PAR-2-2-events-mamady.konte.git
